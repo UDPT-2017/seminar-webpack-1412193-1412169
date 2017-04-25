@@ -24,7 +24,20 @@ Yêu cầu **bắt buộc**
 * [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
-* [ ] Webpack with file config
+* [ ] Giới thiệu webpack
+* [ ] Hướng dẫn cài đặt webpack
+* [ ] Sử dụng webpack khi không có file webpack.config.js
+* [ ] Sử dụng webpack có file webpack.config.js
+    * [ ] watch mode
+    * [ ] optimizing webpack output
+    * [ ] loader và chain loader
+        * [ ] loading JS
+        * [ ] loading CSS
+        * [ ] loading SCSS
+        * [ ] loading ES6
+    * [ ] webpack-dev-server ("hot" option và "inline" option)
+    * [ ] pluggin
+* [ ] Cấu hình tùy môi trường triển khai (development environment và  production environment)
 
 * [ ] Nội dung 2
 
