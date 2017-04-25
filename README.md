@@ -47,7 +47,7 @@ Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hi
 * [x] CN 3: webpack with JavaScript (mô tả: build files tích hợp nhiều file thành 1 file và nhiều file)
 * [x] CN 4: webpack with CSS (mô tả : chạy file css trong file js tích hợp)
 * [x] CN 5: webpack with SCSS (chuyển từ SCSS >> CSS >> JS >> STYLE)
-  [X] CN 6: ES6 biên dịch ES5
+* [X] CN 6: ES6 biên dịch ES5
 * [x] CN 7: webpack with Image
 * [x] CN 8: webpack plugins  (những module hỗ trợ generate cho webpack)
    * [x] 8.1 : HTML-webpack-text-plugin (generate file html với js giống như phần layoutDir của express-handlebar)
