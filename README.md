@@ -38,7 +38,6 @@ Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các
         * [X] loading Image
     * [X] pluggin
     * [X] webpack-dev-server ("hot" option và "inline" option) và cấu hình webpack-dev-server
-
 * [ ] Cấu hình tùy môi trường triển khai (development environment và  production environment)
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
