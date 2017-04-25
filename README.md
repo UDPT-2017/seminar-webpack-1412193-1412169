@@ -1,4 +1,4 @@
-# Seminar-UDPT - *Tên đề tài*
+# Seminar-UDPT - *Webpack*
 
 **Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
