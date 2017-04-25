@@ -1,4 +1,4 @@
-# Seminar-UDPT - *Webpack*
+﻿# Seminar-UDPT - *Webpack*
 
 **Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
@@ -38,7 +38,7 @@ Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các
         * [X] loading Image
     * [X] pluggin
     * [X] webpack-dev-server ("hot" option và "inline" option) và cấu hình webpack-dev-server
-* [ ] Cấu hình tùy môi trường triển khai (development environment và  production environment)
+* [X] Cấu hình tùy môi trường triển khai (development environment và  production environment)
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
 * [x] CN 1: webpack no config
