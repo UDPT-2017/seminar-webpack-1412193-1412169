@@ -50,8 +50,8 @@ Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hi
   [X] CN 6: ES6 biên dịch ES5
 * [x] CN 7: webpack with Image
 * [x] CN 8: webpack plugins  (những module hỗ trợ generate cho webpack)
-*     [x] 8.1 : HTML-webpack-text-plugin (generate file html với js giống như phần layoutDir của express-handlebar)
-*     [x] 8.2 : Extract-Text-Plugin (tách riệng biệt file css/ scss thành những file riêng chứ không để luôn trong js : mục đích làm cho                 trang loader nhanh hơn)
+   * [x] 8.1 : HTML-webpack-text-plugin (generate file html với js giống như phần layoutDir của express-handlebar)
+   * [x] 8.2 : Extract-Text-Plugin (tách riệng biệt file css/ scss thành những file riêng chứ không để luôn trong js : mục đích làm cho                 trang loader nhanh hơn)
 * [x] CN 9: webpack-dev-server
 ## Demo
 
