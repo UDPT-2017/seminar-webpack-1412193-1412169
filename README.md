@@ -3,8 +3,8 @@
 **Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
 Thành viên:
-* [ ] **MSSV1** Tên sinh viên 1 (tên tài khoản github)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1412193** Tên sinh viên 1 (NguyenThaiHoc1)
+* [x] **1412169** Tên sinh viên 2 (tên TK)
 
 URL: **Link github page**
 
@@ -19,9 +19,9 @@ Yêu cầu **GIT**
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
-* [ ] Source code demo
-* [ ] Slide thuyết trình
-* [ ] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
+* [x] Source code demo
+* [x] Slide thuyết trình
+* [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
 * [ ] Nội dung 1
