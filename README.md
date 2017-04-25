@@ -28,8 +28,10 @@ Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các
 * [ ] Nội dung 2
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
-* [ ] Chức năng 1
-* [ ] Chức năng 2
+* [x] CN 1: webpack no config
+* [x] CN 2: webpack with config (webpack.config.js)
+* [x] CN 3: webpack with javaScript (mô tả: build )
+* [x] CN 4: webpack
 
 ## Demo
 
