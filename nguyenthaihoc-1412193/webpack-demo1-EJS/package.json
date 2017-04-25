@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -p --watch"
+  },
+  "author": "NTH-1",
+  "license": "MIT",
+  "devDependencies": {
+    "ejs": "^2.5.6",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.3.2"
+  }
+}

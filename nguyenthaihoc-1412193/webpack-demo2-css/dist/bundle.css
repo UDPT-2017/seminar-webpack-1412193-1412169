@@ -1,0 +1,11 @@
+h1 {
+  border: 1px solid black;
+}
+body {
+  background-color: yellow; }
+  body h1 {
+    color: red; }
+  body h2 {
+    color: pink; }
+  body h3 {
+    color: blue; }
