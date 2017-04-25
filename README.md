@@ -39,8 +39,6 @@ Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các
     * [ ] pluggin
 * [ ] Cấu hình tùy môi trường triển khai (development environment và  production environment)
 
-* [ ] Nội dung 2
-
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
 * [x] CN 1: webpack no config
 * [x] CN 2: webpack with config (webpack.config.js)
