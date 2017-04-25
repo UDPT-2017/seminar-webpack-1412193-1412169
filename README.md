@@ -37,7 +37,7 @@ Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các
         * [X] loading ES6
         * [X] loading Image
     * [X] pluggin
-    * [X] webpack-dev-server ("hot" option và "inline" option)
+    * [X] webpack-dev-server ("hot" option và "inline" option) và cấu hình webpack-dev-server
 
 * [ ] Cấu hình tùy môi trường triển khai (development environment và  production environment)
 
