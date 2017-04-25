@@ -31,14 +31,19 @@ Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
 * [x] CN 1: webpack no config
 * [x] CN 2: webpack with config (webpack.config.js)
-* [x] CN 3: webpack with javaScript (mô tả: build )
-* [x] CN 4: webpack
-
+* [x] CN 3: webpack with JavaScript (mô tả: build files tích hợp nhiều file thành 1 file)
+* [x] CN 4: webpack with CSS (mổ tả : chạy file css trong file js tích hợp)
+* [x] CN 5: webpack with SCSS (chuyển từ SCSS >> CSS >> JS >> STYLE)
+* [x] CN 6: webpack with Image
+* [x] CN 7: webpack plugins  (những module hỗ trợ generate cho webpack)
+* [x] 7.1 : HTML-webpack-text-plugin (generate file html với js giống như phần layoutDir của express-handlebar)
+* [x] 7.2 : Extract-Text-Plugin (tách riệng biệt file css/ scss thành những file riêng chứ không để luôn trong js : mục đích làm cho trang loader nhanh hơn)
+* [x] CN 8: CS6 biên dịch CS5
+* [x] CN 9: webpack-dev-server
 ## Demo
 
 Link ảnh GIF demo ứng dụng:
 
-![Video Walkthrough](demo.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
