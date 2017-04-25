@@ -47,11 +47,17 @@ Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hi
 * [x] CN 4: webpack with CSS (mô tả : chạy file css trong file js tích hợp)
 * [x] CN 5: webpack with SCSS (chuyển từ SCSS >> CSS >> JS >> STYLE)
 * [X] CN 6: ES6 biên dịch ES5
-* [x] CN 7: webpack with Image
+* [x] CN 7: webpack with Image (Sẽ cập nhật sau)
 * [x] CN 8: webpack plugins  (những module hỗ trợ generate cho webpack)
    * [x] 8.1 : HTML-webpack-text-plugin (generate file html với js giống như phần layoutDir của express-handlebar)
    * [x] 8.2 : Extract-Text-Plugin (tách riệng biệt file css/ scss thành những file riêng chứ không để luôn trong js : mục đích làm cho                 trang loader nhanh hơn)
 * [x] CN 9: webpack-dev-server
+* [x] CN 10: Form Đăng ký kết hợp nodejs with webpack
+* (
+    Cụ thể xử lý webpack với node cấu hình webpack trong nodejs
+    Xử lý các file JavaScript and css thành
+    cụ thể trong phần demo 5 : có thể tìm thấy trong đó
+  )
 ## Demo
 
 Link ảnh GIF demo ứng dụng:
