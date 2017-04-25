@@ -3,8 +3,8 @@
 **Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
 Thành viên:
-* [x] **1412193** Tên sinh viên 1 (NguyenThaiHoc1)
-* [x] **1412169** Tên sinh viên 2 (tên TK)
+* [x] **1412193** Nguyễn Thái Học (NguyenThaiHoc1)
+* [x] **1412169** Hồ Thảo Hiền (HoThaoHien)
 
 URL: **Link github page**
 
@@ -13,10 +13,10 @@ URL: **Link github page**
 Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm vào chức năng theo mẫu. Mục nào ko có MSSV là tính điểm theo nhóm. Cần sắp xếp các chức năng bên dưới theo thứ tự MSSV đã thực hiện.
 
 Yêu cầu **GIT**
-* [ ] Có sử dụng GIT.
-* [ ] Sử dụng GIT theo Centralized Workflow.
-* [ ] Sử dụng GIT theo Feature Branch Workflow.
-* [ ] Sử dụng GIT theo Gitflow Workflow.
+* [x] Có sử dụng GIT.
+* [x] Sử dụng GIT theo Centralized Workflow.
+* [x] Sử dụng GIT theo Feature Branch Workflow.
+* [x] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
 * [x] Source code demo
