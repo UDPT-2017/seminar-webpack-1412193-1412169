@@ -63,6 +63,8 @@ Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hi
 https://www.youtube.com/watch?v=m8nSlJzLaRM&feature=youtu.be
 * Part 2 :
 https://www.youtube.com/watch?v=1N3G1o93OQo&feature=youtu.be
+* Part 3 :
+https://www.youtube.com/watch?v=MwcQzdkcSWY&feature=youtu.be
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
