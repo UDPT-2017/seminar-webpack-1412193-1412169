@@ -59,9 +59,8 @@ Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hi
     cụ thể trong phần demo 5 : có thể tìm thấy trong đó
   )
 ## Demo
-
-Link ảnh GIF demo ứng dụng:
-
+* Part 1 : 
+https://www.youtube.com/watch?v=m8nSlJzLaRM&feature=youtu.be
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
