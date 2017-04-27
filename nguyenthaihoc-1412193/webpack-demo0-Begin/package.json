@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -p --watch",
+    "pro": "webpack -d"
+  },
+  "author": "NTH",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  }
+}

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Step 1 : Layout for this website -->
+    <div class="wapper">
+        <div class="header">
+            <div class="navbar navbar-default algindemo">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-bookmark" style="color:red;"></span></a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li><a href="#">HOME</a></li>
+                    <li class="active"><a href="#">DANG KY</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- End header -->
+
+        <div class="body">
+            <div class="row">
+                <div class="col-md-4 col-xs-5">
+                    <div class="panel panel-default">
+                        <!-- Default panel contents -->
+                        <div class="panel-heading activeForm">
+                            <span class="glyphicon glyphicon-user"></span> Học Tập
+                        </div>
+                        <div class="panel-body">
+                            <ul class="nav" style="padding: 0 5%;" id="listAlbums">
+                                <li><a href="#">Xem lịch thi</a></li>
+                                <li><a href="#">Tra cứu kết quả học tập</a></li>
+                            </ul>
+                        </div>
+                        <div class="panel-heading activeForm">
+                            <span class="glyphicon glyphicon-pencil"></span> Đăng ký học phần
+                        </div>
+                        <div class="panel-body">
+                            <ul class="nav" style="padding: 0 5%;" id="listAlbums">
+                                <li><a class="activelabel" href="#">Đăng ký học phần</a></li>
+                                <li><a href="#">Kết quả đăng ký học phần</a></li>
+                                <li><a href="#">Lịch sử đăng ký học phần</a></li>
+                            </ul>
+                        </div>
+                        <div class="panel-heading activeForm">
+                            <span class="glyphicon glyphicon-book"></span> Chuyên đề
+                        </div>
+                        <div class="panel-body">
+                            <ul class="nav" style="padding: 0 5%;" id="listAlbums">
+                                <li><a href="#">Đăng ký chuyên đề</a></li>
+                                <li><a href="#">Kết quả đăng ký</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8 col-xs-7">
+                    <div class="panel panel-default">
+                        <div class="panel-heading activeForm" style="text-align:center">
+                            Đăng Ký Học Phần
+                        </div>
+                        <div class="panel-body">
+                            <form>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1" style="">Mã số sinh viên</label>
+                                    <input type="email" class="form-control displaylineInput" id="exampleInputEmail1" placeholder="Email">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Họ và tên</label>
+                                    <input type="password" class="form-control displaylineInput" id="exampleInputPassword1" placeholder="Password">
+                                </div>
+                                <div class="form-group">
+                                    <span style="margin-right: 20px;">Giới tính : </span>
+                                    <input type="radio" name="gender" value="male"> Male
+                                    <input type="radio" name="gender" value="female"> Female
+                                    <input type="radio" name="gender" value="other"> Other
+                                </div>
+                                <div class="form-group">
+                                    <span style="margin-right: 20px;">Ngày sinh : </span>
+                                    <select class="" name="" id="date">
+                                  </select>
+                                    <select class="" name="" id="month">
+                                  </select>
+                                    <select class="" name="" id="year">
+                                  </select>
+                                </div>
+                                <div class="form-group">
+                                    <table width="500" border="0" cellspacing="0" cellpadding="5">
+                                        <tr class="bold">
+                                            <td width="184">Các môn học</td>
+                                            <td width="39"> </td>
+                                            <td width="247">Đã chọn</td>
+                                        </tr>
+
+                                        <tr>
+                                            <div class="" id="table">
+                                                <td>
+                                                    <select name="lstDSMH" id="lstDSMH" size="9" style="width: 300px;" multiple>
+                                              <option>Lập trình hướng đối tượng</option>
+                                              <option>Cấu trúc dữ liệu</option>
+                                              <option>Lập trình Windows</option>
+                                              <option>Công nghệ phần mềm</option>
+                                              <option>Trí tuệ nhân tạo</option>
+                                              <option>CSDL Web</option>
+                                              <option>Chuyên đề Java</option>
+                                            </select>
+                                                </td>
+                                                <td>
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                                        <tr>
+                                                            <td><input style="width: 35px" type="button" name="btnSelect" id="btnSelect" value="&gt;" /></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td><input style="width: 35px" type="button" name="btnSelect2" id="btnSelect2" value="&gt;&gt;" /></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td><input style="width: 35px" type="button" name="btnSelect3" id="btnSelect3" value="&lt;" /></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td><input style="width: 35px" type="button" name="btnSelect4" id="btnSelect4" value="&lt;&lt;"/></td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                                <td>
+                                                    <select name="lstDSMH" id="lstDSMHs" size="9" style="width: 300px;" multiple>
+
+                                                    </select>
+                                                </td>
+                                            </div>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <button type="submit" class="btn btn-default">Submit</button>
+                                <button type="button" class="btn btn-default" onclick="DangKy()">Đăng ký</button>
+                                <button type="button" class="btn btn-default" onclick="">Xem Danh Sách</button>
+
+                            </form>
+                        </div>
+                        <div class="panel-heading activeForm" style="text-align:center">
+                            Học phần đã đăng ký
+                        </div>
+                        <div class="panel-body">
+                            <table id="tblDSSV" width="100%" border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse">
+                                <tr class="bold">
+                                    <td width="75" bgcolor="#FFFFCC" style="text-align: center;">Mã số</td>
+                                    <td width="200" bgcolor="#FFFFCC" style="text-align: center;">Họ tên</td>
+                                    <td width="200" bgcolor="#FFFFCC" style="text-align: center;">Giới tính</td>
+                                    <td width="200" bgcolor="#FFFFCC" style="text-align: center;">Ngày sinh</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Body-->
+
+            <div class="footer">
+              This is my footer
+              Hello world
+              Webpack dev server
+              Hello The nao ha thich hem ?
+            </div>
+            <!-- End Footer-->
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+</body>
+
+</html>

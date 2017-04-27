@@ -1,0 +1,30 @@
+.warpper {
+  padding: 5% 5%;
+}
+
+#body-content {
+  padding: 20px 20px;
+  font-family: arial;
+  color: #fff;
+  background: #7777bb;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  padding: 10px 20%;
+}
+
+#Input {
+  height: 25px;
+  width: 300px;
+}
+
+#button1 {
+  height: 25px;
+  width: 150px;
+}
+
+#button1:hover {
+  background-color: #eee;
+}
