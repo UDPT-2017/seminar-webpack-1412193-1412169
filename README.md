@@ -6,7 +6,7 @@ Thành viên:
 * [x] **1412193** Nguyễn Thái Học (NguyenThaiHoc1)
 * [x] **1412169** Hồ Thảo Hiền (HoThaoHien)
 
-URL: **Link github page**
+URL: **https://github.com/UDPT-2017/seminar-webpack-1412193-1412169.github.io/blob/master/index.md**
 
 ## Yêu cầu
 
